@@ -66,7 +66,7 @@ scores = model.evaluate(X_test, y_test, verbose=0)
 
 output:
 
-![image](ML2018_Assignment2_410321156/output.PNG)
+![image](https://github.com/gumball0629/ML2018_Assignment2_410321156/blob/master/output.PNG)
 
 ----------------------
 
